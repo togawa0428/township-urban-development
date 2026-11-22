@@ -17,4 +17,6 @@
 
 ## 画像資料
 
-当日のスクリーンショットは会話で共有済み。**このコミットには画像ファイルを含めていない。** 画像をリポジトリに追加した際に本記録からリンクする。
+![農業地区の景観整備後スクリーンショット](../../images/districts/2026-11-22-agricultural-landscape.jpg)
+
+[画像ファイルを開く](../../images/districts/2026-11-22-agricultural-landscape.jpg)
